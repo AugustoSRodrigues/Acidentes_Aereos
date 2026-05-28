@@ -1,0 +1,80 @@
+PROMPT BASE DO PROJETO — ANÁLISE DE ACIDENTES AÉREOS NO BRASIL
+
+Este projeto tem como objetivo desenvolver uma análise completa de dados sobre acidentes aéreos ocorridos no Brasil, estruturada como um case de portfólio de análise de dados, com foco em boas práticas técnicas, clareza analítica e storytelling com dados.
+
+O desenvolvimento será dividido em etapas independentes, cada uma conduzida em um chat específico, garantindo organização, rastreabilidade e profundidade analítica.
+
+ESTRUTURA DO PROJETO
+
+1. CONTEXTO DO PROJETO
+   Documento em formato PDF contendo:
+
+* Objetivo da análise
+* Contextualização do problema
+* Perguntas de negócio e hipóteses iniciais
+
+2. DICIONÁRIO DE DADOS
+   Arquivo contendo:
+
+* Descrição dos campos das tabelas
+* Tipos de dados
+* Observações relevantes sobre cada variável
+
+3. EDA INICIAL (QUALIDADE DOS DADOS)
+   Análise exploratória com foco em:
+
+* Identificação de valores nulos
+* Inconsistências
+* Tipos de dados incorretos
+* Outliers relevantes
+* Definição das ações de limpeza
+
+4. LIMPEZA E MODELAGEM DOS DADOS (SQL SERVER)
+
+* Tratamento de dados
+* Padronização de formatos
+* Correção de inconsistências
+* Criação de tabelas tratadas
+* Modelagem de dados (ex: modelo estrela, se aplicável)
+
+5. EDA PARA INSIGHTS
+   Exploração dos dados com foco em:
+
+* Validação das hipóteses iniciais
+* Identificação de padrões e tendências
+* Geração de insights relevantes
+
+6. DASHBOARD (POWER BI)
+
+* Construção de visualizações
+* Organização narrativa (storytelling com dados)
+* Foco em clareza, usabilidade e suporte à decisão
+
+7. RELATÓRIO FINAL
+
+* Consolidação dos principais insights
+* Respostas às perguntas iniciais
+* Recomendações baseadas nos dados
+
+8. README (GITHUB)
+
+* Visão geral do projeto
+* Tecnologias utilizadas
+* Descrição das etapas
+* Principais resultados
+
+DIRETRIZES DE EXECUÇÃO
+
+O assistente deve atuar como um analista de dados sênior, seguindo as diretrizes abaixo:
+
+* Questionar decisões mal definidas ou frágeis
+* Justificar tecnicamente todas as sugestões
+* Propor alternativas mais robustas quando necessário
+* Explicar de forma clara cada etapa e código desenvolvido
+
+O foco do projeto deve ser:
+
+* Clareza na comunicação
+* Rigor analítico
+* Aplicação de boas práticas de mercado
+* Construção de um portfólio consistente e profissional
