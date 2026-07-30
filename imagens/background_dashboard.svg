@@ -1,0 +1,62 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<radialGradient id="glow1" cx="50%" cy="50%" r="50%">
+<stop offset="0%" stop-color="#dbe9fb" stop-opacity="0.55"/>
+<stop offset="100%" stop-color="#dbe9fb" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="glow2" cx="50%" cy="50%" r="50%">
+<stop offset="0%" stop-color="#eaf1fb" stop-opacity="0.6"/>
+<stop offset="100%" stop-color="#eaf1fb" stop-opacity="0"/>
+</radialGradient>
+</defs>
+
+<rect x="0" y="0" width="1920" height="1080" fill="#f4f6f9"/>
+
+<circle cx="1650" cy="150" r="420" fill="url(#glow1)"/>
+<circle cx="180" cy="920" r="380" fill="url(#glow2)"/>
+
+<g stroke="#c9d8ec" stroke-width="1" fill="none" opacity="0.5">
+<circle cx="1650" cy="150" r="90"/>
+<circle cx="1650" cy="150" r="150"/>
+<circle cx="1650" cy="150" r="210"/>
+<circle cx="1650" cy="150" r="270"/>
+</g>
+<g stroke="#c9d8ec" stroke-width="1" fill="none" opacity="0.4">
+<circle cx="180" cy="920" r="80"/>
+<circle cx="180" cy="920" r="140"/>
+<circle cx="180" cy="920" r="200"/>
+</g>
+
+<g stroke="#cdd9ea" stroke-width="1" fill="none" opacity="0.45">
+<path d="M -50 850 Q 400 700 900 780 T 1970 650"/>
+<path d="M -80 250 Q 500 320 1000 200 T 2000 300"/>
+<path d="M -60 550 Q 600 480 1150 560 T 1980 480"/>
+</g>
+
+<g fill="#c3d3e8" opacity="0.35">
+<circle cx="120" cy="140" r="3"/>
+<circle cx="260" cy="90" r="2.5"/>
+<circle cx="1800" cy="700" r="3"/>
+<circle cx="1720" cy="850" r="2.5"/>
+<circle cx="950" cy="60" r="2.5"/>
+<circle cx="60" cy="600" r="3"/>
+<circle cx="1400" cy="980" r="2.5"/>
+<circle cx="1880" cy="380" r="3"/>
+<circle cx="500" cy="1000" r="2.5"/>
+</g>
+
+<g transform="translate(1550,320) rotate(35) scale(1.4)" fill="#c7d7ec" opacity="0.4">
+<path d="M0 -18 L4 -6 L20 2 L20 6 L4 3 L2 14 L7 18 L7 21 L0 18 L-7 21 L-7 18 L-2 14 L-4 3 L-20 6 L-20 2 L-4 -6 Z"/>
+</g>
+<g transform="translate(280,760) rotate(-20) scale(1.1)" fill="#cddaeb" opacity="0.35">
+<path d="M0 -18 L4 -6 L20 2 L20 6 L4 3 L2 14 L7 18 L7 21 L0 18 L-7 21 L-7 18 L-2 14 L-4 3 L-20 6 L-20 2 L-4 -6 Z"/>
+</g>
+<g transform="translate(1100,920) rotate(10) scale(0.9)" fill="#d2ddee" opacity="0.3">
+<path d="M0 -18 L4 -6 L20 2 L20 6 L4 3 L2 14 L7 18 L7 21 L0 18 L-7 21 L-7 18 L-2 14 L-4 3 L-20 6 L-20 2 L-4 -6 Z"/>
+</g>
+
+<g stroke="#d3ddec" stroke-width="1" opacity="0.3">
+<line x1="0" y1="1080" x2="1920" y2="1080"/>
+<line x1="1650" y1="150" x2="1550" y2="320"/>
+</g>
+</svg>

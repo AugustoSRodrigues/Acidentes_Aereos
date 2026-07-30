@@ -1,0 +1,187 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1150" height="700" viewBox="0 0 1150 700" font-family="Tahoma, Verdana, Arial, sans-serif">
+
+<defs>
+  <linearGradient id="hdr" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#7FA0CC"/>
+    <stop offset="100%" stop-color="#4A6FA5"/>
+  </linearGradient>
+</defs>
+
+<!-- moldura -->
+<rect x="0" y="0" width="1150" height="700" fill="#000000"/>
+<rect x="8" y="8" width="1134" height="684" fill="#FFFFFF"/>
+
+<!-- ============ OCORRENCIA (central) ============ -->
+<rect x="430" y="150" width="290" height="22" fill="url(#hdr)" stroke="#2E4E7E" stroke-width="1"/>
+<text x="437" y="165" font-size="11" font-weight="bold" fill="#FFFFFF">OCORRÊNCIA</text>
+<rect x="430" y="172" width="290" height="227.5" fill="#F2F1E4" stroke="#2E4E7E" stroke-width="1"/>
+<line x1="430" y1="189.5" x2="720" y2="189.5" stroke="#9BB0CE" stroke-width="0.7"/>
+<line x1="430" y1="207" x2="720" y2="207" stroke="#9BB0CE" stroke-width="0.7"/>
+<line x1="430" y1="224.5" x2="720" y2="224.5" stroke="#9BB0CE" stroke-width="0.7"/>
+<line x1="430" y1="242" x2="720" y2="242" stroke="#9BB0CE" stroke-width="0.7"/>
+<line x1="430" y1="259.5" x2="720" y2="259.5" stroke="#9BB0CE" stroke-width="0.7"/>
+<line x1="430" y1="277" x2="720" y2="277" stroke="#9BB0CE" stroke-width="0.7"/>
+<line x1="430" y1="294.5" x2="720" y2="294.5" stroke="#9BB0CE" stroke-width="0.7"/>
+<line x1="430" y1="312" x2="720" y2="312" stroke="#9BB0CE" stroke-width="0.7"/>
+<line x1="430" y1="329.5" x2="720" y2="329.5" stroke="#9BB0CE" stroke-width="0.7"/>
+<line x1="430" y1="347" x2="720" y2="347" stroke="#9BB0CE" stroke-width="0.7"/>
+<line x1="430" y1="364.5" x2="720" y2="364.5" stroke="#9BB0CE" stroke-width="0.7"/>
+<line x1="430" y1="382" x2="720" y2="382" stroke="#9BB0CE" stroke-width="0.7"/>
+<text x="437" y="185" font-size="10.5" font-weight="bold" fill="#1A1A1A">codigo_ocorrencia</text>
+<text x="437" y="202.5" font-size="10.5" fill="#1A1A1A">ocorrencia_classificacao</text>
+<text x="437" y="220" font-size="10.5" fill="#1A1A1A">ocorrencia_latitude</text>
+<text x="437" y="237.5" font-size="10.5" fill="#1A1A1A">ocorrencia_longitude</text>
+<text x="437" y="255" font-size="10.5" fill="#1A1A1A">ocorrencia_cidade</text>
+<text x="437" y="272.5" font-size="10.5" fill="#1A1A1A">ocorrencia_uf</text>
+<text x="437" y="290" font-size="10.5" fill="#1A1A1A">ocorrencia_pais</text>
+<text x="437" y="307.5" font-size="10.5" fill="#1A1A1A">ocorrencia_dia</text>
+<text x="437" y="325" font-size="10.5" fill="#1A1A1A">ocorrencia_hora</text>
+<text x="437" y="342.5" font-size="10.5" fill="#1A1A1A">total_aeronaves_envolvidas</text>
+<text x="437" y="360" font-size="10.5" fill="#1A1A1A">ocorrencia_saida_pista</text>
+<text x="437" y="377.5" font-size="10.5" fill="#20603F">UF_Mapa</text>
+<text x="437" y="395" font-size="10.5" fill="#20603F">HORA</text>
+
+<!-- ============ AERONAVE (direita) ============ -->
+<rect x="830" y="180" width="280" height="22" fill="url(#hdr)" stroke="#2E4E7E" stroke-width="1"/>
+<text x="837" y="195" font-size="11" font-weight="bold" fill="#FFFFFF">AERONAVE</text>
+<rect x="830" y="202" width="280" height="262.5" fill="#F2F1E4" stroke="#2E4E7E" stroke-width="1"/>
+<line x1="830" y1="219.5" x2="1110" y2="219.5" stroke="#9BB0CE" stroke-width="0.7"/>
+<line x1="830" y1="237" x2="1110" y2="237" stroke="#9BB0CE" stroke-width="0.7"/>
+<line x1="830" y1="254.5" x2="1110" y2="254.5" stroke="#9BB0CE" stroke-width="0.7"/>
+<line x1="830" y1="272" x2="1110" y2="272" stroke="#9BB0CE" stroke-width="0.7"/>
+<line x1="830" y1="289.5" x2="1110" y2="289.5" stroke="#9BB0CE" stroke-width="0.7"/>
+<line x1="830" y1="307" x2="1110" y2="307" stroke="#9BB0CE" stroke-width="0.7"/>
+<line x1="830" y1="324.5" x2="1110" y2="324.5" stroke="#9BB0CE" stroke-width="0.7"/>
+<line x1="830" y1="342" x2="1110" y2="342" stroke="#9BB0CE" stroke-width="0.7"/>
+<line x1="830" y1="359.5" x2="1110" y2="359.5" stroke="#9BB0CE" stroke-width="0.7"/>
+<line x1="830" y1="377" x2="1110" y2="377" stroke="#9BB0CE" stroke-width="0.7"/>
+<line x1="830" y1="394.5" x2="1110" y2="394.5" stroke="#9BB0CE" stroke-width="0.7"/>
+<line x1="830" y1="412" x2="1110" y2="412" stroke="#9BB0CE" stroke-width="0.7"/>
+<line x1="830" y1="429.5" x2="1110" y2="429.5" stroke="#9BB0CE" stroke-width="0.7"/>
+<line x1="830" y1="447" x2="1110" y2="447" stroke="#9BB0CE" stroke-width="0.7"/>
+<text x="837" y="215" font-size="10.5" font-weight="bold" fill="#1A1A1A">codigo_ocorrencia</text>
+<text x="837" y="232.5" font-size="10.5" fill="#1A1A1A">aeronave_tipo_equipamento</text>
+<text x="837" y="250" font-size="10.5" fill="#1A1A1A">fabricante</text>
+<text x="837" y="267.5" font-size="10.5" fill="#1A1A1A">aeronave_modelo</text>
+<text x="837" y="285" font-size="10.5" fill="#1A1A1A">aeronave_motor_tipo</text>
+<text x="837" y="302.5" font-size="10.5" fill="#1A1A1A">aeronave_ano_fabricacao</text>
+<text x="837" y="320" font-size="10.5" fill="#1A1A1A">aeronave_pais_fabricante</text>
+<text x="837" y="337.5" font-size="10.5" fill="#1A1A1A">aeronave_voo_origem</text>
+<text x="837" y="355" font-size="10.5" fill="#1A1A1A">aeronave_voo_destino</text>
+<text x="837" y="372.5" font-size="10.5" fill="#1A1A1A">aeronave_fase_operacao</text>
+<text x="837" y="390" font-size="10.5" fill="#1A1A1A">aeronave_tipo_operacao</text>
+<text x="837" y="407.5" font-size="10.5" fill="#1A1A1A">aeronave_nivel_dano</text>
+<text x="837" y="425" font-size="10.5" fill="#1A1A1A">aeronave_fatalidades_total</text>
+<text x="837" y="442.5" font-size="10.5" fill="#20603F">Idade Aeronave</text>
+<text x="837" y="460" font-size="10.5" fill="#20603F">Trajeto</text>
+
+<!-- ============ OCORRENCIA_TIPO (topo direita) ============ -->
+<rect x="850" y="45" width="250" height="22" fill="url(#hdr)" stroke="#2E4E7E" stroke-width="1"/>
+<text x="857" y="60" font-size="11" font-weight="bold" fill="#FFFFFF">OCORRÊNCIA_TIPO</text>
+<rect x="850" y="67" width="250" height="35" fill="#F2F1E4" stroke="#2E4E7E" stroke-width="1"/>
+<line x1="850" y1="84.5" x2="1100" y2="84.5" stroke="#9BB0CE" stroke-width="0.7"/>
+<text x="857" y="80" font-size="10.5" font-weight="bold" fill="#1A1A1A">codigo_ocorrencia</text>
+<text x="857" y="97.5" font-size="10.5" fill="#1A1A1A">ocorrencia_tipo</text>
+
+<!-- ============ FATOR_CONTRIBUINTE (esquerda inferior) ============ -->
+<rect x="60" y="430" width="250" height="22" fill="url(#hdr)" stroke="#2E4E7E" stroke-width="1"/>
+<text x="67" y="445" font-size="11" font-weight="bold" fill="#FFFFFF">FATOR_CONTRIBUINTE</text>
+<rect x="60" y="452" width="250" height="105" fill="#F2F1E4" stroke="#2E4E7E" stroke-width="1"/>
+<line x1="60" y1="469.5" x2="310" y2="469.5" stroke="#9BB0CE" stroke-width="0.7"/>
+<line x1="60" y1="487" x2="310" y2="487" stroke="#9BB0CE" stroke-width="0.7"/>
+<line x1="60" y1="504.5" x2="310" y2="504.5" stroke="#9BB0CE" stroke-width="0.7"/>
+<line x1="60" y1="522" x2="310" y2="522" stroke="#9BB0CE" stroke-width="0.7"/>
+<line x1="60" y1="539.5" x2="310" y2="539.5" stroke="#9BB0CE" stroke-width="0.7"/>
+<text x="67" y="465" font-size="10.5" font-weight="bold" fill="#1A1A1A">codigo_ocorrencia</text>
+<text x="67" y="482.5" font-size="10.5" fill="#1A1A1A">fator_nome</text>
+<text x="67" y="500" font-size="10.5" fill="#1A1A1A">fator_aspecto</text>
+<text x="67" y="517.5" font-size="10.5" fill="#1A1A1A">fator_condicionante</text>
+<text x="67" y="535" font-size="10.5" fill="#1A1A1A">fator_area</text>
+<text x="67" y="552.5" font-size="10.5" fill="#20603F">fator_area_tratado</text>
+
+<!-- ============ CALENDARIO (direita inferior) ============ -->
+<rect x="800" y="530" width="250" height="22" fill="url(#hdr)" stroke="#2E4E7E" stroke-width="1"/>
+<text x="807" y="545" font-size="11" font-weight="bold" fill="#FFFFFF">CALENDARIO</text>
+<rect x="800" y="552" width="250" height="105" fill="#F2F1E4" stroke="#2E4E7E" stroke-width="1"/>
+<line x1="800" y1="569.5" x2="1050" y2="569.5" stroke="#9BB0CE" stroke-width="0.7"/>
+<line x1="800" y1="587" x2="1050" y2="587" stroke="#9BB0CE" stroke-width="0.7"/>
+<line x1="800" y1="604.5" x2="1050" y2="604.5" stroke="#9BB0CE" stroke-width="0.7"/>
+<line x1="800" y1="622" x2="1050" y2="622" stroke="#9BB0CE" stroke-width="0.7"/>
+<line x1="800" y1="639.5" x2="1050" y2="639.5" stroke="#9BB0CE" stroke-width="0.7"/>
+<text x="807" y="565" font-size="10.5" font-weight="bold" fill="#1A1A1A">Data</text>
+<text x="807" y="582.5" font-size="10.5" fill="#1A1A1A">Ano</text>
+<text x="807" y="600" font-size="10.5" fill="#1A1A1A">Mes</text>
+<text x="807" y="617.5" font-size="10.5" fill="#1A1A1A">MesNome</text>
+<text x="807" y="635" font-size="10.5" fill="#1A1A1A">Dia</text>
+<text x="807" y="652.5" font-size="10.5" fill="#1A1A1A">Dia_Semana</text>
+
+<!-- ============ DIM_HORA (centro inferior) ============ -->
+<rect x="420" y="480" width="230" height="22" fill="url(#hdr)" stroke="#2E4E7E" stroke-width="1"/>
+<text x="427" y="495" font-size="11" font-weight="bold" fill="#FFFFFF">DIM_HORA</text>
+<rect x="420" y="502" width="230" height="122.5" fill="#F2F1E4" stroke="#2E4E7E" stroke-width="1"/>
+<line x1="420" y1="519.5" x2="650" y2="519.5" stroke="#9BB0CE" stroke-width="0.7"/>
+<line x1="420" y1="537" x2="650" y2="537" stroke="#9BB0CE" stroke-width="0.7"/>
+<line x1="420" y1="554.5" x2="650" y2="554.5" stroke="#9BB0CE" stroke-width="0.7"/>
+<line x1="420" y1="572" x2="650" y2="572" stroke="#9BB0CE" stroke-width="0.7"/>
+<line x1="420" y1="589.5" x2="650" y2="589.5" stroke="#9BB0CE" stroke-width="0.7"/>
+<line x1="420" y1="607" x2="650" y2="607" stroke="#9BB0CE" stroke-width="0.7"/>
+<text x="427" y="515" font-size="10.5" font-weight="bold" fill="#1A1A1A">HoraValor</text>
+<text x="427" y="532.5" font-size="10.5" fill="#1A1A1A">HoraTexto</text>
+<text x="427" y="550" font-size="10.5" fill="#1A1A1A">Hora</text>
+<text x="427" y="567.5" font-size="10.5" fill="#1A1A1A">Minuto</text>
+<text x="427" y="585" font-size="10.5" fill="#1A1A1A">Segundo</text>
+<text x="427" y="602.5" font-size="10.5" fill="#1A1A1A">HoraDecimal</text>
+<text x="427" y="620" font-size="10.5" fill="#1A1A1A">MinutosDoDia</text>
+
+<!-- ============ INDICADOR_CLASSIFICACAO (desconectada) ============ -->
+<rect x="80" y="120" width="250" height="22" fill="#8C8C8C" stroke="#5A5A5A" stroke-width="1"/>
+<text x="87" y="135" font-size="11" font-weight="bold" fill="#FFFFFF">INDICADOR_CLASSIFICACAO</text>
+<rect x="80" y="142" width="250" height="52.5" fill="#F0EFEA" stroke="#5A5A5A" stroke-width="1" stroke-dasharray="4 3"/>
+<line x1="80" y1="159.5" x2="330" y2="159.5" stroke="#B5B5B0" stroke-width="0.7"/>
+<line x1="80" y1="177" x2="330" y2="177" stroke="#B5B5B0" stroke-width="0.7"/>
+<text x="87" y="155" font-size="10.5" font-weight="bold" fill="#1A1A1A">Indicador</text>
+<text x="87" y="172.5" font-size="10.5" fill="#1A1A1A">Ordem</text>
+<text x="87" y="190" font-size="9.5" font-style="italic" fill="#5A5A5A">tabela desconectada — slicer</text>
+
+<!-- ============ CONECTORES ============ -->
+<!-- ocorrencia <-> aeronave -->
+<path d="M720 215 C 770 215, 790 215, 830 215" fill="none" stroke="#6E8CBB" stroke-width="1.4"/>
+<circle cx="722" cy="215" r="3.2" fill="#3F5F94"/>
+<circle cx="828" cy="215" r="3.2" fill="#3F5F94"/>
+<text x="748" y="209" font-size="9" fill="#3F5F94">N:1 ↔</text>
+
+<!-- ocorrencia <-> ocorrencia_tipo -->
+<path d="M720 185 C 780 185, 800 82, 850 82" fill="none" stroke="#6E8CBB" stroke-width="1.4"/>
+<circle cx="722" cy="185" r="3.2" fill="#3F5F94"/>
+<circle cx="848" cy="82" r="3.2" fill="#3F5F94"/>
+<text x="762" y="126" font-size="9" fill="#3F5F94">N:1 ↔</text>
+
+<!-- ocorrencia <-> fator_contribuinte -->
+<path d="M430 300 C 380 300, 350 465, 310 465" fill="none" stroke="#6E8CBB" stroke-width="1.4"/>
+<circle cx="428" cy="300" r="3.2" fill="#3F5F94"/>
+<circle cx="312" cy="465" r="3.2" fill="#3F5F94"/>
+<text x="336" y="382" font-size="9" fill="#3F5F94">N:1 ↔</text>
+
+<!-- ocorrencia -> Calendario -->
+<path d="M720 325 C 770 325, 760 565, 800 565" fill="none" stroke="#B08A3E" stroke-width="1.4"/>
+<circle cx="722" cy="325" r="3.2" fill="#8A6A28"/>
+<circle cx="798" cy="565" r="3.2" fill="#8A6A28"/>
+<text x="744" y="448" font-size="9" fill="#8A6A28">N:1 →</text>
+
+<!-- ocorrencia -> Dim_Hora -->
+<path d="M535 399.5 C 535 430, 535 450, 535 480" fill="none" stroke="#B08A3E" stroke-width="1.4"/>
+<circle cx="535" cy="401" r="3.2" fill="#8A6A28"/>
+<circle cx="535" cy="478" r="3.2" fill="#8A6A28"/>
+<text x="542" y="443" font-size="9" fill="#8A6A28">N:1 →</text>
+
+<!-- ============ LEGENDA ============ -->
+<rect x="60" y="620" width="300" height="58" fill="#FAFAF6" stroke="#B5B5B0" stroke-width="0.8"/>
+<line x1="72" y1="638" x2="100" y2="638" stroke="#6E8CBB" stroke-width="1.4"/>
+<circle cx="72" cy="638" r="2.8" fill="#3F5F94"/><circle cx="100" cy="638" r="2.8" fill="#3F5F94"/>
+<text x="108" y="641" font-size="9.5" fill="#333">Relacionamento bidirecional (N:1)</text>
+<line x1="72" y1="656" x2="100" y2="656" stroke="#B08A3E" stroke-width="1.4"/>
+<circle cx="72" cy="656" r="2.8" fill="#8A6A28"/><circle cx="100" cy="656" r="2.8" fill="#8A6A28"/>
+<text x="108" y="659" font-size="9.5" fill="#333">Relacionamento unidirecional (N:1)</text>
+<text x="72" y="674" font-size="9.5" fill="#20603F">■ colunas calculadas criadas no projeto</text>
+
+</svg>
