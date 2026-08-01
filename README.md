@@ -196,11 +196,8 @@ A tabela `recomendacao` foi descartada integralmente, por estar fora do escopo a
 | `Dim_Hora` | Dimensão de hora com granularidade de 1 minuto (1.440 linhas, de 00:00 a 23:59). Relacionada com `ocorrencia[ocorrencia_hora]`. |
 | `INDICADOR_CLASSIFICACAO` | Tabela desconectada com os valores do segmentador dinâmico: Ocorrências, Acidentes, Incidentes, Incidentes Graves, Fatalidades (Quantidade) e Fatalidades (Ocorrências). |
 | `fabricante_aux` | Tabela de padronização de nomes de fabricantes. |
-| `cidades` / `cidades_aux2` | Tabelas auxiliares com coordenadas geográficas por cidade/UF para correção de posicionamento nos mapas. |
 
-### Tabelas tratadas (cópias)
 
-Foram criadas cópias das tabelas `aeronave`, `ocorrencia_tipo` e `fator_contribuinte` (`Aeronave_tratada`, `ocorrencia_tipo_tratada`, `fator_contribuinte_tratado`) para uso em visuais específicos que exigiam relacionamentos independentes, evitando conflito com os relacionamentos bidirecionais do modelo principal.
 
 ### Modelo de relacionamento após o tratamento (Power BI)
 
@@ -332,10 +329,9 @@ Do outro lado, a aviação comercial regular brasileira apresenta indicadores de
 
 ## 🛠️ Tecnologias utilizadas
 
-- **Power BI Desktop** — modelagem, DAX e visualização
+- **Power BI Desktop** — Visualização
 - **Power Query** — tratamento e transformação dos dados
 - **DAX** — medidas dinâmicas, tooltips customizados e colunas calculadas
 
 ---
 
-*Projeto desenvolvido para fins de portfólio. Dados públicos do CENIPA.*
