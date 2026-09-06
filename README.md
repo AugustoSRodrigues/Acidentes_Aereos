@@ -1,6 +1,6 @@
 # ✈️ Análise de Acidentes Aeronáuticos no Brasil
 
-Dashboard interativo em Power BI para análise do perfil das ocorrências aeronáuticas registradas no Brasil entre 2007 e 2025.
+Dashboard interativo em Power BI para análise do perfil das ocorrências aeronáuticas registradas no Brasil entre 2007 e 2026.
 
 ---
 
@@ -35,16 +35,16 @@ Essa pergunta é desdobrada nos eixos:
 
 **Fonte dos dados:** Os dados são provenientes do [CENIPA](https://www.gov.br/cenipa/pt-br) (Centro de Investigação e Prevenção de Acidentes Aeronáuticos), órgão vinculado à Força Aérea Brasileira responsável por investigar e registrar ocorrências aeronáuticas no Brasil. Os dados são públicos e disponibilizados em formato aberto.
 
-**Abrangência:** O dataset cobre ocorrências aeronáuticas registradas no Brasil entre **2007 e 2025**, classificadas em três categorias: Acidente, Incidente e Incidente Grave.
+**Abrangência:** O dataset cobre ocorrências aeronáuticas registradas no Brasil entre **2007 e 2026**, classificadas em três categorias: Acidente, Incidente e Incidente Grave.
 
 **Estrutura original dos dados:** Os dados originais estão organizados em cinco tabelas, com a tabela `ocorrencia` como entidade central e as demais relacionadas por identificadores textuais de ocorrência em cardinalidade 1:N.
 
 | Tabela | Registros | Colunas | Descrição |
 |---|---|---|---|
-| `ocorrencia` | 13.185 | 22 | Tabela central com classificação, localização, data/hora, status da investigação e publicação de relatório |
-| `aeronave` | 14.590 | 20 | Aeronaves envolvidas: tipo, modelo, fabricante, operação, fase, dano e fatalidades |
-| `ocorrencia_tipo` | 15.201 | 3 | Tipos de ocorrência associados, com código ICAO |
-| `fator_contribuinte` | 9.086 | 5 | Fatores contribuintes identificados nas investigações |
+| `ocorrencia` | 14.626 | 22 | Tabela central com classificação, localização, data/hora, status da investigação e publicação de relatório |
+| `aeronave` | 14.822 | 20 | Aeronaves envolvidas: tipo, modelo, fabricante, operação, fase, dano e fatalidades |
+| `ocorrencia_tipo` | 15.432 | 3 | Tipos de ocorrência associados, com código ICAO |
+| `fator_contribuinte` | 9.106 | 5 | Fatores contribuintes identificados nas investigações |
 | `recomendacao` | 2.785 | 9 | Recomendações de segurança emitidas a partir das investigações |
 
 ### Dicionário de Dados
